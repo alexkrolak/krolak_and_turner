@@ -1,0 +1,29 @@
+
+
+
+Rental Listing Inquiries
+https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+
+
+Cervical Cancer Screening
+https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data
+
+
+Home Credit Default Risk
+https://www.kaggle.com/c/home-credit-default-risk/data
+
+
+Particle Tracking Challenge
+https://www.kaggle.com/c/trackml-particle-identification/data
+
+
+Forest Cover Type
+https://www.kaggle.com/c/forest-cover-type-kernels-only
+
+
+New York City Taxi Fare Prediction
+https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
+
+
+Segment salt deposits beneath the Earth's surface
+https://www.kaggle.com/c/tgs-salt-identification-challenge#Prizes
