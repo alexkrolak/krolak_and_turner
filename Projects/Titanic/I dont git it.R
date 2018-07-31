@@ -4,7 +4,7 @@
 # TODO: Set file path automatically according to who's running the code instead of using a string.
 krolak_or_turner <- "krolak"
 if(krolak_or_turner == "krolak"){
-  setwd("Z:/Portfolio/krolak_and_turner")
+  setwd("Z:/Portfolio/krolak_and_turner/Projects/Titanic")
 }else if(krolak_or_turner == "turner"){
   setwd("PUT YOUR FILE PATH HERE")
 }
