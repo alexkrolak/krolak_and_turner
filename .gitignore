@@ -1,0 +1,10 @@
+#Anything in data_in
+**/data_in/**
+# Any .csv or excel files
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+
+# Office Temp Files
+~$*
