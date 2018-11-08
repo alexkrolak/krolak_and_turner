@@ -1,3 +1,8 @@
+install.packages("beepr")
+library(beepr)
+beep(4)
+
+
 # Google Revenue Contest
 # Copied from here: https://www.kaggle.com/c/google-analytics-customer-revenue-prediction/data
 
@@ -35,7 +40,7 @@
   # install.packages("skimr")
   # install.packages("recipes")
   # install.packages("data.table")
-  install.packages("DataExplorer")
+  # install.packages("DataExplorer")
 }
 
 

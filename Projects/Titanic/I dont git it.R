@@ -31,9 +31,16 @@ if(krolak_or_turner == "krolak"){
 }
 
 
-# meh
+# Look at what's in the data
 create_report(train)
 
+# Combine train/test for transformations
+all <- rbind(train,test, fill=T)
+all %>% class
+setdiff(names(train), names(test))
+
+# Create prediction dataset
+# PassengerId, Survived columns in a csv
 
 
 
